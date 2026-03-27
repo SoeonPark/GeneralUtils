@@ -3,6 +3,8 @@
 # ============================================
 # gpu_queue.sh - Auto GPU Queue Scheduler
 # 
+# !!!!! To Use this script, YOU NEED TO DOWNLOAD *NTFY* Application !!!!!
+# 
 # Monitors GPUs and automatically runs tasks
 # when the assigned GPU becomes available.
 #
